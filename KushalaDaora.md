@@ -5,8 +5,7 @@ Category: Elder Dragons
 ![alt](images/KushalaDaora1.png)
 
 Kushala Daora is a Large Monster in Monster Hunter World (MHW).
-Kushala Daora is an Elder Dragon, meaning traps such
-as pitfall and shock will not be effective against her.
+Kushala Daora is weak in the head, then the forelegs, and then the tail.
 
 Kushala Daora is not initially hostile, and while not fighting it can you can get very close to it.
     
