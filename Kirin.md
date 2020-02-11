@@ -11,7 +11,7 @@ Kirin are so rarely sighted that little is known of their ecology. Kirin's power
 It's been said they envelop themselves in pure electricity when they are provoked.
 
     
-**Found in**: Coral Highlands
+**Found in**: Coral Highlands  
 **Target of Quests**: Gone in a Flash, Lightning Strikes Twice, Thunderous Rumble in the Highlands.
 **Species** : Elder Dragons  
 **Elements** : Thunder  
