@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
 title: Welcome to TAMU Group 1's homepage!
 Description: This is Group 1's project page for TCMG 412! 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+url: https://tamugroup1.github.io/pelicangroup1
+markdown: kramdown
