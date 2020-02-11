@@ -1,4 +1,4 @@
-Title: Monster Hunter World : Iceborne Hunter Guide
+Title: **Monster Hunter World : Iceborne Hunter Guide**
 Date: January 28th, 2020
 Tags: monster, hunter, world, iceborne, hunter, guide
 Authors: TCMG 412 Group 1
