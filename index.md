@@ -24,5 +24,6 @@ Enjoy your hunt!
 * [Namielle](Namielle.md)
 * [Kirin](Kirin.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
+* [Kushala Daora](KushalaDaora.md)
   
 (Pictures thanks to Alex's buddy xxxiii)
