@@ -20,4 +20,5 @@ It's been said they envelop themselves in pure electricity when they are provoke
 Fire (3)  
 Thunder (2)  
 Dragon (2)
+Shaan (15)
    
