@@ -1,7 +1,7 @@
 # **Monster Hunter World : Iceborne Hunter Guide**  
 Date: January 28th, 2020  
 Tags: monster, hunter, world, iceborne, hunter, guide  
-Authors: TCMG 412 Group 1  
+Authors: TCMG 412 Group 1 
 
 ![alt](images/MonsterHunter2.png)
 
@@ -23,3 +23,5 @@ Enjoy your hunt!
 * [Velkhana](Velkhana.md)
 * [Namielle](Namielle.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
+  
+(Pictures thanks to Alex's buddy xxxiii)
