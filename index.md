@@ -18,6 +18,7 @@ Enjoy your hunt!
 * [Banbaro](Banbaro.md)
 * [Fulgur Anjanath](FulgurAnjanath.md)
 * [Zinogre](Zinogre.md)
+* [Nightshade Paolumu](NightshadePaolumu.md)
 
 ### **Elder Dragons**
 * [Velkhana](Velkhana.md)
