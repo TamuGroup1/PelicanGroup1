@@ -4,7 +4,7 @@ Category: Elder Dragons
 
 ![alt](images/Namielle.png)
 
-Namielle is a Large Monster in Monster Hunter World (MHW) included in the Iceborn Expansion released on Jan 9th, 2020.  
+Namielle is a Large Monster in Monster Hunter World (MHW) included in the Iceborne Expansion released on Jan 9th, 2020.  
 Namielle is an Elder Dragon, meaning traps such
 as pitfall and shock will not be effective against her.
     
