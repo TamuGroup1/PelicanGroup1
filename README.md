@@ -1,6 +1,6 @@
-## Welcome to Group 1's Github page!
+### Welcome to Group 1's Github page!
 
-This is Group 1's Project for TCMG 412
+This is Group 1's Project 2 for TCMG 412
 
 ### Jekyll Themes
 
