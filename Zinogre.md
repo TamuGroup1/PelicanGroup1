@@ -1,5 +1,5 @@
-Title: **Zinogre**
-Date: January 9th, 2020
+# **Zinogre**  
+Date: January 9th, 2020  
 Category: Large Monsters
 
 ![alt](images/Zinogre.png)
