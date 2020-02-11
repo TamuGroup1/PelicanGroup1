@@ -10,7 +10,7 @@ Banbaro is is a monster with two giant horns, and uses its environment to charge
 Banbaro is weak to traps.
     
 **Found in**: Hoarfrost Reach, The Guiding Lands   
-**Target of Quests**: Banbaro Blockade, Trapping The Tree Thrasher, This Here's Big Horn Country!, Taking Charge
+**Target of Quests**: Banbaro Blockade, Trapping The Tree Thrasher, This Here's Big Horn Country!, Taking Charge  
 **Species**: Brute Wyverns  
 **Elements**: Ice  
 **Resistances**: Ice, Water, Thunder  
