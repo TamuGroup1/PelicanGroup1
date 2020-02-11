@@ -22,6 +22,7 @@ Enjoy your hunt!
 ### **Elder Dragons**
 * [Velkhana](Velkhana.md)
 * [Namielle](Namielle.md)
+* [Kirin](Kirin.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
   
 (Pictures thanks to Alex's buddy xxxiii)
