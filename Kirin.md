@@ -16,7 +16,7 @@ It's been said they envelop themselves in pure electricity when they are provoke
 **Species** : Elder Dragons  
 **Elements** : Thunder  
 **Resistances** : Thunder, Paralysis  
-**Weaknesses** : 
+**Weaknesses** :  
 Fire (3)  
 Thunder (2)  
 Dragon (2)
