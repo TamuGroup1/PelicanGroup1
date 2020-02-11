@@ -3,7 +3,7 @@ Date: January 28th, 2020
 Tags: monster, hunter, world, iceborne, hunter, guide
 Authors: TCMG 412 Group 1
 
-!(/images/MonsterHunter1.png)  
+src="img/MonsterHunter1.png"
 
 Summary: Welcome to the Guide for Monster Hunter World Iceborne  
 
