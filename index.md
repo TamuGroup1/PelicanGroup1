@@ -16,7 +16,7 @@ Enjoy your hunt!
 
 ### **Large Monsters**  
 * [Banbaro](Banbaro.md)
-* [Fulgur Anjanath](Fulgur_Anjanath.md)
+* [Fulgur Anjanath](FulgurAnjanath.md)
 * [Zinogre](Zinogre.md)
 
 ### **Elder Dragons**
