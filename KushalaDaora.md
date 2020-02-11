@@ -2,7 +2,7 @@
 Date: January 15th, 2020  
 Category: Elder Dragons
 
-![alt](images/Velkhana1.png)
+![alt](images/KushalaDaora.png)
 
 Kushala Daora is a Large Monster in Monster Hunter World (MHW).
 Kushala Daora is an Elder Dragon, meaning traps such
