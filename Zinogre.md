@@ -10,7 +10,7 @@ Zinogre charges his electricity using Thunderbugs from his vinicity, these bugs 
     
 Zinogre is weak to pitfall traps. Shock traps are mostly ineffective to this monster.
     
-**Found in** : Hoarfrost Reach, The Guiding Lands 
+**Found in** : Hoarfrost Reach, The Guiding Lands   
 **Target of Quests**: ???  
 **Species**: Fanged Wyverns  
 **Elements**: Lightning  
