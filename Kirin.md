@@ -2,7 +2,7 @@
 Date: January 11th, 2020  
 Category: Elder Dragons
 
-![alt](images/Kirin.png)
+![alt](images/Kirin1.png)
 
 Kirin is an Elder Dragon in Monster Hunter World (MHW).
 
