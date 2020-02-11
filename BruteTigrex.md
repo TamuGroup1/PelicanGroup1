@@ -9,13 +9,13 @@ Brute Tigrex has blackish brown scales and a strong roar that sets this Tigrex s
 
 Brute Tigrex is weak to water and thunder.
 
-**Found in**: Only appears at Guiding Lands Rotten Level 6 and above.
-**Target of Quests**: The target of quests is unkown
-**Species**: Monster Class
-**Elements**: None
-**Resistance(s)**: Fire
-**Weaknesses**:
-Water (3)
-Thunder (2)
-Ice
-Dragon
+**Found in**: Only appears at Guiding Lands Rotten Level 6 and above.  
+**Target of Quests**: The target of quests is unkown . 
+**Species**: Monster Class . 
+**Elements**: None . 
+**Resistance(s)**: Fire . 
+**Weaknesses**:  
+Water (3) . 
+Thunder (2) . 
+Ice . 
+Dragon . 
