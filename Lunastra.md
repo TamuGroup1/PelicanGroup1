@@ -15,7 +15,11 @@ The Thronetaker, When Blue Dust Surpasses Red Lust
 Species : Elder Dragons
 
 Elements : Fire
+
 Resistances : Fire
+
 Weaknesses :
+
 Ice (3)
+
 Dragon (2)
