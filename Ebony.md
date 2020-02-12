@@ -7,7 +7,7 @@ Category: Large Monsters
 Ebony Odogaron is a Large Monster in Monster Hunter World (MHW). オドガロン亜種 (Odogaron ashu) in Japanese. It was added with the Iceborne Expansion on Sept 6th 2019. It is a subspecies of Odogaron.
     
 **Found in**: All biomes   
-**Target of Quests**: Bad Friends, Great Enemies
+**Target of Quests**: Bad Friends, Great Enemies  
 **Species**: Fanged Wyverns  
 **Elements**: Dragon  
 **Resistances**: None  
