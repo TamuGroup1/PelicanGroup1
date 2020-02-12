@@ -18,7 +18,7 @@ Enjoy your hunt!
 * [Banbaro](Banbaro.md)
 * [Brute Tigrex](BruteTigrex.md)
 * [Fulgur Anjanath](FulgurAnjanath.md)
-* [Glavenous](Glavenous.md)
+* [Glavenus](Glavenus.md)
 * [Nightshade Paolumu](NightshadePaolumu.md)
 * [Zinogre](Zinogre.md)   
 * [Ebony Odogaron](Ebony.md)
