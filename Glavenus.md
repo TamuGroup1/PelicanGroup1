@@ -9,7 +9,7 @@ Glavenus is a brute wyvern that weilds its heavy blue tail like a blade. It grow
     
 Glavenus is not immeadiately hostile.
     
-**Found in**: Ancient Forest, Wildspire Waste, Elder's Recess   
+**Found in**: Ancient Forest, Wildspire Waste, Elder's Recess     
 **Target of Quests**: The Scorching Blade  
 **Species**: Brute Wyverns  
 **Elements**: Fire  
