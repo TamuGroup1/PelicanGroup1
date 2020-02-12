@@ -25,11 +25,12 @@ Enjoy your hunt!
 
 
 ### **Elder Dragons**
+* [Blackveil Vaal Hazak](Blackveil.md)
 * [Kirin](Kirin.md)
 * [Kushala Daora](KushalaDaora.md)
 * [Namielle](Namielle.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
 * [Velkhana](Velkhana.md)
-* [Blackveil Vaal Hazak](Blackveil.md)
+
   
 (Pictures thanks to Alex's buddy xxxiii)
