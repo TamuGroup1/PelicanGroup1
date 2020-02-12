@@ -17,11 +17,12 @@ Enjoy your hunt!
 ### **Large Monsters**  
 * [Banbaro](Banbaro.md)
 * [Brute Tigrex](BruteTigrex.md)
+* [Ebony Odogaron](Ebony.md)
 * [Fulgur Anjanath](FulgurAnjanath.md)
 * [Glavenus](Glavenus.md)
 * [Nightshade Paolumu](NightshadePaolumu.md)
 * [Zinogre](Zinogre.md)   
-* [Ebony Odogaron](Ebony.md)
+
 
 ### **Elder Dragons**
 * [Kirin](Kirin.md)
