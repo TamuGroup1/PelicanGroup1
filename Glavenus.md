@@ -13,7 +13,7 @@ Glavenus is not immeadiately hostile.
 **Target of Quests**: The Scorching Blade  
 **Species**: Brute Wyverns  
 **Elements**: Fire  
-**Resistances**: Fire 
+**Resistances**: Fire      
 **Weaknesses**:
 Water (3)
 Ice (2)
