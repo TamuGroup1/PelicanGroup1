@@ -28,6 +28,7 @@ Enjoy your hunt!
 * [Blackveil Vaal Hazak](Blackveil.md)
 * [Kirin](Kirin.md)
 * [Kushala Daora](KushalaDaora.md)
+* [Lunastra](Lunastra.md)
 * [Namielle](Namielle.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
 * [Velkhana](Velkhana.md)
