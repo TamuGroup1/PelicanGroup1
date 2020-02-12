@@ -20,6 +20,7 @@ Enjoy your hunt!
 * [Fulgur Anjanath](FulgurAnjanath.md)
 * [Nightshade Paolumu](NightshadePaolumu.md)
 * [Zinogre](Zinogre.md)   
+* [Ebony Odogaron](Ebony.md)
 
 ### **Elder Dragons**
 * [Kirin](Kirin.md)
@@ -27,5 +28,6 @@ Enjoy your hunt!
 * [Namielle](Namielle.md)
 * [Ruiner Nergigante](RuinerNergigante.md)
 * [Velkhana](Velkhana.md)
+* [Blackveil Vaal Hazak](Blackveil.md)
   
 (Pictures thanks to Alex's buddy xxxiii)
