@@ -17,6 +17,6 @@ Brute Tigrex is weak to water and thunder.
 **Weaknesses**:    
 Water (3)     
 Thunder (2)     
-Ice     
-Dragon     
+Ice (1)    
+Dragon (1)    
  
