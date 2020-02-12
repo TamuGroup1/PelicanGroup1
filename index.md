@@ -16,16 +16,16 @@ Enjoy your hunt!
 
 ### **Large Monsters**  
 * [Banbaro](Banbaro.md)
-* [Fulgur Anjanath](FulgurAnjanath.md)
-* [Zinogre](Zinogre.md)
-* [Nightshade Paolumu](NightshadePaolumu.md)   
 * [Brute Tigrex](BruteTigrex.md)
+* [Fulgur Anjanath](FulgurAnjanath.md)
+* [Nightshade Paolumu](NightshadePaolumu.md)
+* [Zinogre](Zinogre.md)   
 
 ### **Elder Dragons**
-* [Velkhana](Velkhana.md)
-* [Namielle](Namielle.md)
 * [Kirin](Kirin.md)
-* [Ruiner Nergigante](RuinerNergigante.md)
 * [Kushala Daora](KushalaDaora.md)
+* [Namielle](Namielle.md)
+* [Ruiner Nergigante](RuinerNergigante.md)
+* [Velkhana](Velkhana.md)
   
 (Pictures thanks to Alex's buddy xxxiii)
