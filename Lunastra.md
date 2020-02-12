@@ -9,6 +9,7 @@ Lunastra has a resistance to fire, and is completely immune to it.
 Lunastra is immediately hostile and actively attacks other monsters.
 
 Found in: Elder's Recess, Wildspire Waste
+
 Target of Quests: Pandora's Arena, No Remorse, No Surrender, 
 Infernal Monarchy, Blue Prominence, The Thronetaker, When Blue Dust Surpasses Red Lust
 
