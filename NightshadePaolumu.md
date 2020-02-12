@@ -16,6 +16,6 @@ Nightshade Paolumu is weak to water and fire.
 **Resistances**: Dragon  
 **Weaknesses**:   
 Water (3)  
-Fire (2)
+Fire (2)  
 Thunder (1)  
 Ice (1)  
